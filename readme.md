@@ -1,5 +1,13 @@
 Start With NPM Install
 
+React Mobile Shop With Filtering function to get data from updatable JSON
+
+To open
+- First open a browser
+- second go the File
+- public/index.html
+- drag the index.html inside the public folder or just double click it
+
 "devDependencies":
   - "babel-preset-react": "^6.24.1",
   - "babelify": "^7.3.0",
